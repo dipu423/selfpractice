@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('Self test', () => {
   it('passes', () => {
     cy.visit('https://www.flipkart.com/')
   })
